@@ -1101,8 +1101,8 @@ var arrays = {
 	   "BEETALL",
 	   "CRUNCHA",
 	   "ZERBERKER",
-	   "SNARTLE"
-	   "SHOGUNYAN"
+	   "SNARTLE",
+	   "SHOGUNYAN",
 	  ],
 	  [
 	   "SENTRET",
