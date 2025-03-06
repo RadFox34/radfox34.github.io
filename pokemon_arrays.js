@@ -422,7 +422,7 @@ var arrays = {
 	  [
 	   "CHARIZARD",
 	   "BUTTERFREE",
-	   "PIDGEY",
+	   "PANDLE",
 	   "PIDGEOTTO",
 	   "PIDGEOT",
 	   "SPEAROW",
