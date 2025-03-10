@@ -1892,7 +1892,7 @@ var arrays = {
 	   "NUL",
 	   "SUSPICIONI",
 	   "TANTRONI",
-	   "CONTARIONI",
+	   "CONTRARIONI",
 	   "HIDABAT",
 	   "ABODABAT",
 	   "BELFREE",
