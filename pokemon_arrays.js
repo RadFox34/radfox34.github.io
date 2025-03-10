@@ -1870,6 +1870,7 @@ var arrays = {
 	  [],
 	  [],
 	  [],
+	  [],
 	  [
 	   "CRANIDOS",
 	   "RAMPARDOS",
@@ -1879,7 +1880,6 @@ var arrays = {
 	   "RHYPERIOR",
 	   "PROBOPASS"  
 	  ],
-	  [],
 	  [],
 	  [
 	   "DREDNAW",
