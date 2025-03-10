@@ -1869,6 +1869,7 @@ var arrays = {
 	  [],
 	  [],
 	  [],
+	  [],
 	  [
 	   "CRANIDOS",
 	   "RAMPARDOS",
@@ -1876,9 +1877,8 @@ var arrays = {
 	   "BASTIODON",
 	   "BONSLY",
 	   "RHYPERIOR",
-	   "PROBOPASS"
+	   "PROBOPASS"  
 	  ],
-	  [],
 	  [],
 	  [],
 	  [
