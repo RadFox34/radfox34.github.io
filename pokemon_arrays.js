@@ -2409,11 +2409,28 @@ var arrays = {
 	 "Legendary": [
 	  [],
 	  [
-	   "ARTICUNO",
-	   "ZAPDOS",
-	   "MOLTRES",
-	   "MEWTWO",
-	   "MEW"
+	   "SLIMAMANDER",
+	   "SPROINK",
+	   "SV SNAGGERJAG",
+	   "MASSIFACE",
+	   "PHANTASMURAI",
+	   "TARANTUTOR",
+	   "DR MADDIMAN",
+	   "MCKRAKEN",
+	   "MCKRAKEN 2",
+	   "DUWHEEL",
+	   "CHIRPSTER",
+	   "EYEDRA",
+	   "HOGGLES",
+	   "STYX MK VI",
+	   "CLIPSO",
+	   "SPOOKLUNK",
+	   "DR NOGUT",
+	   "SQUISKER",
+	   "WOBBLEWOK",
+	   "GARGAROS",
+	   "OGRALUS",
+	   "ORCANOS"
 	  ],
 	  [
 	   "RAIKOU",
