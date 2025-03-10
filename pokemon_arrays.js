@@ -1755,22 +1755,7 @@ var arrays = {
 	 ],
 	 "Ground": [
 	  [],
-	  [
-	   "SANDSHREW",
-	   "SANDSLASH",
-	   "NIDOQUEEN",
-	   "NIDOKING",
-	   "DIGLETT",
-	   "DUGTRIO",
-	   "GEODUDE",
-	   "GRAVELER",
-	   "GOLEM",
-	   "ONIX",
-	   "CUBONE",
-	   "MAROWAK",
-	   "RHYHORN",
-	   "RHYDON"
-	  ],
+	  [],
 	  [
 	   "WOOPER",
 	   "QUAGSIRE",
