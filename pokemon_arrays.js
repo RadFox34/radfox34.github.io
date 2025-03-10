@@ -1879,19 +1879,7 @@ var arrays = {
 	   "PROBOPASS"
 	  ],
 	  [],
-	  [
-	   "BINACLE",
-	   "BARBARACLE",
-	   "TYRUNT",
-	   "TYRANTRUM",
-	   "AMAURA",
-	   "AURORUS",
-	   "CARBINK",
-	   "DIANCIE",
-	   "DIANCIE_1",
-	   "AERODACTYL_1",
-	   "TYRANITAR_1"
-	  ],
+	  [],
 	  [],
 	  [
 	   "DREDNAW",
