@@ -559,49 +559,11 @@ var arrays = {
 	 ],
 	 "Dragon": [
 	  [],
-	  [
-	   "DRATINI",
-	   "DRAGONAIR",
-	   "DRAGONITE"
-	  ],
-	  [
-	   "KINGDRA"
-	  ],
-	  [
-	   "VIBRAVA",
-	   "FLYGON",
-	   "ALTARIA",
-	   "BAGON",
-	   "SHELGON",
-	   "SALAMENCE",
-	   "LATIAS",
-	   "LATIOS",
-	   "RAYQUAZA"
-	  ],
-	  [
-	   "GIBLE",
-	   "GABITE",
-	   "GARCHOMP",
-	   "DIALGA",
-	   "PALKIA",
-	   "GIRATINA",
-	   "GIRATINA_1",
-	   "DIALGA_2"
-	  ],
-	  [
-	   "AXEW",
-	   "FRAXURE",
-	   "HAXORUS",
-	   "DRUDDIGON",
-	   "DEINO",
-	   "ZWEILOUS",
-	   "HYDREIGON",
-	   "RESHIRAM",
-	   "ZEKROM",
-	   "KYUREM",
-	   "KYUREM_1",
-	   "KYUREM_2"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "DRAGALGE",
 	   "TYRUNT",
@@ -622,19 +584,7 @@ var arrays = {
 	   "RAYQUAZA_1",
 	   "GARCHOMP_1"
 	  ],
-	  [
-	   "TURTONATOR",
-	   "DRAMPA",
-	   "JANGMOO",
-	   "HAKAMOO",
-	   "KOMMOO",
-	   "GUZZLORD",
-	   "NECROZMA_3",
-	   "NAGANADEL",
-	   "EXEGGUTOR_1",
-	   "ZYGARDE_1",
-	   "ZYGARDE_2"
-	  ],
+	  [],
 	  [
 	   "APPLIN",
 	   "FLAPPLE",
@@ -880,83 +830,11 @@ var arrays = {
 	 ],
 	 "Bug": [
 	  [],
-	  [
-	   "CATERPIE",
-	   "METAPOD",
-	   "BUTTERFREE",
-	   "WEEDLE",
-	   "KAKUNA",
-	   "BEEDRILL",
-	   "PARAS",
-	   "PARASECT",
-	   "VENONAT",
-	   "VENOMOTH",
-	   "SCYTHER",
-	   "PINSIR"
-	  ],
-	  [
-	   "LEDYBA",
-	   "LEDIAN",
-	   "SPINARAK",
-	   "ARIADOS",
-	   "YANMA",
-	   "PINECO",
-	   "FORRETRESS",
-	   "SCIZOR",
-	   "SHUCKLE",
-	   "HERACROSS"
-	  ],
-	  [
-	   "WURMPLE",
-	   "SILCOON",
-	   "BEAUTIFLY",
-	   "CASCOON",
-	   "DUSTOX",
-	   "SURSKIT",
-	   "MASQUERAIN",
-	   "NINCADA",
-	   "NINJASK",
-	   "SHEDINJA",
-	   "VOLBEAT",
-	   "ILLUMISE",
-	   "ANORITH",
-	   "ARMALDO"
-	  ],
-	  [
-	   "KRICKETOT",
-	   "KRICKETUNE",
-	   "BURMY",
-	   "BURMY_1",
-	   "BURMY_2",
-	   "WORMADAM",
-	   "WORMADAM_1",
-	   "WORMADAM_2",
-	   "MOTHIM",
-	   "COMBEE",
-	   "VESPIQUEN",
-	   "SKORUPI",
-	   "YANMEGA"
-	  ],
-	  [
-	   "SEWADDLE",
-	   "SWADLOON",
-	   "LEAVANNY",
-	   "VENIPEDE",
-	   "WHIRLIPEDE",
-	   "SCOLIPEDE",
-	   "DWEBBLE",
-	   "CRUSTLE",
-	   "KARRABLAST",
-	   "ESCAVALIER",
-	   "JOLTIK",
-	   "GALVANTULA",
-	   "SHELMET",
-	   "ACCELGOR",
-	   "DURANT",
-	   "LARVESTA",
-	   "VOLCARONA",
-	   "GENESECT"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "SCATTERBUG",
 	   "SPEWPA",
@@ -985,19 +863,7 @@ var arrays = {
 	   "VIVILLON_18",
 	   "VIVILLON_19"
 	  ],
-	  [
-	   "GRUBBIN",
-	   "CHARJABUG",
-	   "VIKAVOLT",
-	   "CUTIEFLY",
-	   "RIBOMBEE",
-	   "DEWPIDER",
-	   "ARAQUANID",
-	   "WIMPOD",
-	   "GOLISOPOD",
-	   "BUZZWOLE",
-	   "PHEROMOSA"
-	  ],
+	  [],
 	  [
 	   "BLIPBUG",
 	   "DOTTLER",
@@ -1227,64 +1093,11 @@ var arrays = {
 	 ],
 	 "Dark": [
 	  [],
-	  [
-	   "MISSINGNO",
-	   "MISSINGNO_1",
-	   "MISSINGNO_2",
-	   "MISSINGNO_3",
-	   "MISSINGNO_4",
-	   "SUBSTITUTE"
-	  ],
-	  [
-	   "UMBREON",
-	   "MURKROW",
-	   "SNEASEL",
-	   "HOUNDOUR",
-	   "HOUNDOOM",
-	   "TYRANITAR"
-	  ],
-	  [
-	   "POOCHYENA",
-	   "MIGHTYENA",
-	   "NUZLEAF",
-	   "SHIFTRY",
-	   "SABLEYE",
-	   "CARVANHA",
-	   "SHARPEDO",
-	   "CACTURNE",
-	   "CRAWDAUNT",
-	   "ABSOL"
-	  ],
-	  [
-	   "HONCHKROW",
-	   "STUNKY",
-	   "SKUNTANK",
-	   "SPIRITOMB",
-	   "DRAPION",
-	   "WEAVILE",
-	   "DARKRAI"
-	  ],
-	  [
-	   "PURRLOIN",
-	   "LIEPARD",
-	   "SANDILE",
-	   "KROKOROK",
-	   "KROOKODILE",
-	   "SCRAGGY",
-	   "SCRAFTY",
-	   "ZORUA",
-	   "ZOROARK",
-	   "PAWNIARD",
-	   "BISHARP",
-	   "VULLABY",
-	   "MANDIBUZZ",
-	   "DEINO",
-	   "ZWEILOUS",
-	   "HYDREIGON",
-	   "BRYCENMAN",
-	   "MONSTER",
-	   "MAJIN"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "GRENINJA",
 	   "PANGORO",
@@ -1299,17 +1112,7 @@ var arrays = {
 	   "SHARPEDO_1",
 	   "ABSOL_1"
 	  ],
-	  [
-	   "INCINEROAR",
-	   "GUZZLORD",
-	   "RATTATA_1",
-	   "RATICATE_1",
-	   "MEOWTH_1",
-	   "PERSIAN_1",
-	   "GRIMER_1",
-	   "MUK_1",
-	   "GRENINJA_2"
-	  ],
+	  [],
 	  [
 	   "NICKIT",
 	   "THIEVUL",
@@ -1776,60 +1579,11 @@ var arrays = {
 	 ],
 	 "Steel": [
 	  [],
-	  [
-	   "MAGNEMITE",
-	   "MAGNETON"
-	  ],
-	  [
-	   "FORRETRESS",
-	   "STEELIX",
-	   "SCIZOR",
-	   "SKARMORY"
-	  ],
-	  [
-	   "MAWILE",
-	   "ARON",
-	   "LAIRON",
-	   "AGGRON",
-	   "BELDUM",
-	   "METANG",
-	   "METAGROSS",
-	   "REGISTEEL",
-	   "JIRACHI"
-	  ],
-	  [
-	   "EMPOLEON",
-	   "SHIELDON",
-	   "BASTIODON",
-	   "WORMADAM_2",
-	   "BRONZOR",
-	   "BRONZONG",
-	   "LUCARIO",
-	   "MAGNEZONE",
-	   "PROBOPASS",
-	   "DIALGA",
-	   "HEATRAN",
-	   "DIALGA_2"
-	  ],
-	  [
-	   "EXCADRILL",
-	   "ESCAVALIER",
-	   "FERROSEED",
-	   "FERROTHORN",
-	   "KLINK",
-	   "KLANG",
-	   "KLINKLANG",
-	   "PAWNIARD",
-	   "BISHARP",
-	   "DURANT",
-	   "COBALION",
-	   "GENESECT",
-	   "MT",
-	   "MT2",
-	   "TRANSPORT",
-	   "F00",
-	   "F00_1"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "HONEDGE",
 	   "DOUBLADE",
@@ -1901,31 +1655,10 @@ var arrays = {
 	   "ORCANOS",
 	   "GILGAROS"
 	  ],
-	  [
-	   "CLEFFA",
-	   "IGGLYBUFF",
-	   "TOGEPI",
-	   "TOGETIC",
-	   "MARILL",
-	   "AZUMARILL",
-	   "SNUBBULL",
-	   "GRANBULL"
-	  ],
-	  [
-	   "RALTS",
-	   "KIRLIA",
-	   "GARDEVOIR",
-	   "AZURILL",
-	   "MAWILE"
-	  ],
-	  [
-	   "MIMEJR",
-	   "TOGEKISS"
-	  ],
-	  [
-	   "COTTONEE",
-	   "WHIMSICOTT"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "FLABEBE",
 	   "FLABEBE_1",
@@ -1960,23 +1693,7 @@ var arrays = {
 	   "ALTARIA_1",
 	   "AUDINO_1"
 	  ],
-	  [
-	   "PRIMARINA",
-	   "CUTIEFLY",
-	   "RIBOMBEE",
-	   "MORELULL",
-	   "SHIINOTIC",
-	   "COMFEY",
-	   "MIMIKYU",
-	   "MIMIKYU_1",
-	   "TAPUKOKO",
-	   "TAPULELE",
-	   "TAPUBULU",
-	   "TAPUFINI",
-	   "MAGEARNA",
-	   "MAGEARNA_1",
-	   "NINETALES_1"
-	  ],
+	  [],
 	  [
 	   "HATTERENE",
 	   "HATTERENE_1",
@@ -2149,42 +1866,9 @@ var arrays = {
 	 ],
 	 "Rock": [
 	  [],
-	  [
-	   "GEODUDE",
-	   "GRAVELER",
-	   "GOLEM",
-	   "ONIX",
-	   "RHYHORN",
-	   "RHYDON",
-	   "OMANYTE",
-	   "OMASTAR",
-	   "KABUTO",
-	   "KABUTOPS",
-	   "AERODACTYL"
-	  ],
-	  [
-	   "SUDOWOODO",
-	   "SHUCKLE",
-	   "MAGCARGO",
-	   "CORSOLA",
-	   "LARVITAR",
-	   "PUPITAR",
-	   "TYRANITAR"
-	  ],
-	  [
-	   "NOSEPASS",
-	   "ARON",
-	   "LAIRON",
-	   "AGGRON",
-	   "LUNATONE",
-	   "SOLROCK",
-	   "LILEEP",
-	   "CRADILY",
-	   "ANORITH",
-	   "ARMALDO",
-	   "RELICANTH",
-	   "REGIROCK"
-	  ],
+	  [],
+	  [],
+	  [],
 	  [
 	   "CRANIDOS",
 	   "RAMPARDOS",
@@ -2194,18 +1878,7 @@ var arrays = {
 	   "RHYPERIOR",
 	   "PROBOPASS"
 	  ],
-	  [
-	   "ROGGENROLA",
-	   "BOLDORE",
-	   "GIGALITH",
-	   "DWEBBLE",
-	   "CRUSTLE",
-	   "TIRTOUGA",
-	   "CARRACOSTA",
-	   "ARCHEN",
-	   "ARCHEOPS",
-	   "TERRAKION"
-	  ],
+	  [],
 	  [
 	   "BINACLE",
 	   "BARBARACLE",
@@ -2219,25 +1892,7 @@ var arrays = {
 	   "AERODACTYL_1",
 	   "TYRANITAR_1"
 	  ],
-	  [
-	   "ROCKRUFF",
-	   "LYCANROC",
-	   "LYCANROC_1",
-	   "LYCANROC_2",
-	   "MINIOR",
-	   "MINIOR_7",
-	   "MINIOR_8",
-	   "MINIOR_9",
-	   "MINIOR_10",
-	   "MINIOR_11",
-	   "MINIOR_12",
-	   "MINIOR_13",
-	   "NIHILEGO",
-	   "STAKATAKA",
-	   "GEODUDE_1",
-	   "GRAVELER_1",
-	   "GOLEM_1"
-	  ],
+	  [],
 	  [
 	   "DREDNAW",
 	   "DREDNAW_1",
@@ -2265,47 +1920,11 @@ var arrays = {
 	 ],
 	 "Ghost": [
 	  [],
-	  [
-	   "GASTLY",
-	   "HAUNTER",
-	   "GENGAR"
-	  ],
-	  [
-	   "MISDREAVUS"
-	  ],
-	  [
-	   "SHEDINJA",
-	   "SABLEYE",
-	   "SHUPPET",
-	   "BANETTE",
-	   "DUSKULL",
-	   "DUSCLOPS"
-	  ],
-	  [
-	   "DRIFLOON",
-	   "DRIFBLIM",
-	   "MISMAGIUS",
-	   "SPIRITOMB",
-	   "DUSKNOIR",
-	   "FROSLASS",
-	   "ROTOM",
-	   "GIRATINA",
-	   "GIRATINA_1"
-	  ],
-	  [
-	   "YAMASK",
-	   "COFAGRIGUS",
-	   "FRILLISH",
-	   "FRILLISH_1",
-	   "JELLICENT",
-	   "JELLICENT_1",
-	   "LITWICK",
-	   "LAMPENT",
-	   "CHANDELURE",
-	   "GOLETT",
-	   "GOLURK",
-	   "MAJIN"
-	  ],
+	  [],
+	  [],
+	  [],
+	  [],
+	  [],
 	  [
 	   "HONEDGE",
 	   "DOUBLADE",
@@ -2320,21 +1939,7 @@ var arrays = {
 	   "SABLEYE_1",
 	   "BANETTE_1"
 	  ],
-	  [
-	   "DECIDUEYE",
-	   "ORICORIO_3",
-	   "SANDYGAST",
-	   "PALOSSAND",
-	   "MIMIKYU",
-	   "MIMIKYU_1",
-	   "DHELMISE",
-	   "LUNALA",
-	   "NECROZMA_2",
-	   "MARSHADOW",
-	   "MARSHADOW_1",
-	   "BLACEPHALON",
-	   "MAROWAK_1"
-	  ],
+	  [],
 	  [
 	   "SINISTEA",
 	   "POLTEAGEIST",
