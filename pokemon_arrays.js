@@ -1709,22 +1709,7 @@ var arrays = {
 	   "CLAYDOL",
 	   "GROUDON"
 	  ],
-	  [
-	   "TORTERRA",
-	   "WORMADAM_1",
-	   "GASTRODON",
-	   "GASTRODON_1",
-	   "GIBLE",
-	   "GABITE",
-	   "GARCHOMP",
-	   "HIPPOPOTAS",
-	   "HIPPOPOTAS_2",
-	   "HIPPOWDON",
-	   "HIPPOWDON_2",
-	   "RHYPERIOR",
-	   "GLISCOR",
-	   "MAMOSWINE"
-	  ],
+	  [],
 	  [
 	   "DRILBUR",
 	   "EXCADRILL",
