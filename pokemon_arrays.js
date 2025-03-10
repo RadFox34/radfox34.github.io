@@ -2098,11 +2098,10 @@ var arrays = {
 	 "Fairy": [
 	  [],
 	  [
-	   "CLEFAIRY",
-	   "CLEFABLE",
-	   "JIGGLYPUFF",
-	   "WIGGLYTUFF",
-	   "MRMIME"
+	   "GARGAROS",
+	   "OGRALUS",
+	   "ORCANOS",
+	   "GILGAROS"
 	  ],
 	  [
 	   "CLEFFA",
