@@ -1541,11 +1541,24 @@ var arrays = {
 	   "AWEVIL"
 	  ],
 	  [
-	   "SNEASEL",
-	   "SWINUB",
-	   "PILOSWINE",
-	   "DELIBIRD",
-	   "SMOOCHUM"
+	   "WYDEAWAKE",
+	   "ALLNYTA",
+	   "HERBIBOY",
+	   "CARNIBOY",
+	   "YOINK",
+	   "GIMME",
+	   "KMON-KMON",
+	   "YOODOOIT",
+	   "COUNT ZAPAWAY",
+	   "TYRAT",
+	   "SNOBETTY",
+	   "DRACUNYAN",
+	   "EYESOAR",
+	   "EYELLURE",
+	   "POOFESSOR",
+	   "GRUMPUS KHAN",
+	   "GROUPUS KHAN",
+	   "DARKYUBI"
 	  ],
 	  [
 	   "CASTFORM_3",
