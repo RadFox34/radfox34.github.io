@@ -1211,14 +1211,25 @@ var arrays = {
 	   "ELDER BLOOM"
 	  ],
 	  [
-	   "CHINCHOU",
-	   "LANTURN",
-	   "PICHU",
-	   "MAREEP",
-	   "FLAAFFY",
-	   "AMPHAROS",
-	   "ELEKID",
-	   "RAIKOU"
+	   "KELPACABANA",
+	   "TONGUS",
+	   "NURSE TONGUS",
+	   "SANDMEH",
+	   "MISTER SANDMEH",
+	   "PALLYSOL",
+	   "SCARASOL",
+	   "SUPOOR HERO",
+	   "GNOMEY",
+	   "HIGH GNOMEY",
+	   "PREDICTABULL",
+	   "SMASHIBULL",
+	   "DON CHAN",
+	   "RAY O LIGHT",
+	   "KYRYN",
+	   "UNIKIRIN",
+	   "ROBOGRAMPS",
+	   "HAPPYCANE",
+	   "STARRYCANE"
 	  ],
 	  [
 	   "ELECTRIKE",
