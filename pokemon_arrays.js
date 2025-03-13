@@ -338,16 +338,22 @@ var arrays = {
 	   "KOMASHURA"
 	  ],
 	  [
-	   "CYNDAQUIL",
-	   "QUILAVA",
-	   "TYPHLOSION",
-	   "SLUGMA",
-	   "MAGCARGO",
-	   "HOUNDOUR",
-	   "HOUNDOOM",
-	   "MAGBY",
-	   "ENTEI",
-	   "HOOH"
+	   "BROKENBRELLA",
+	   "PITTAPAT",
+	   "HOUZZAT",
+	   "FAYSOFF",
+	   "SO-SORREE",
+	   "BOWMINOS",
+	   "SMOGLING",
+	   "SMOGMELLA",
+	   "MASTER ODEN",
+	   "FAILIAN",
+	   "APELICAN",
+	   "MIRADOX",
+	   "VERYGOODSIR",
+	   "CHYMERA",
+	   "KINGMERA",
+	   "SNOTTLE"
 	  ],
 	  [
 	   "TORCHIC",
