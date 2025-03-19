@@ -1811,9 +1811,22 @@ var arrays = {
 	   "DANDOODLE"
 	  ],
 	  [
-	   "HERACROSS",
-	   "TYROGUE",
-	   "HITMONTOP"
+	   "ROBBINYU",
+	   "SQUEEKY",
+	   "RAWRY",
+	   "FURGUS",
+	   "FURDINAND",
+	   "NOSIRS",
+	   "PAPA WINDBAG",
+	   "BEN TOVER",
+	   "TOILETTA",
+	   "FOILETTA",
+	   "ARACHNUS",
+	   "ARACHNIA",
+	   "ROBOMUTT",
+	   "DARKNYAN",
+	   "DANKE SAND",
+	   "NO SANDKYU"
 	  ],
 	  [
 	   "COMBUSKEN",
