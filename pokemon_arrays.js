@@ -2687,12 +2687,9 @@ var arrays = {
 	   "GILGAROS"
 	  ],
 	  [
-	   "AMPHAROS_1",
-	   "SCIZOR_1",
-	   "STEELIX_1",
-	   "HERACROSS_1",
-	   "HOUNDOOM_1",
-	   "TYRANITAR_1"
+	   "SPOILERINA",
+	   "POOFESSOR",
+	   "SLURPENT"
 	  ],
 	  [
 	   "SCEPTILE_1",
