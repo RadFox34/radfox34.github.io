@@ -239,10 +239,23 @@ var arrays = {
 	   "SHADOW VENOCT"
 	  ],
 	  [
-	   "SPINARAK",
-	   "ARIADOS",
-	   "CROBAT",
-	   "QWILFISH"
+	   "CRICKY",
+	   "SNAGGLY",
+	   "WHINONA",
+	   "FLUSHBACK",
+	   "VACUUMORY",
+	   "IREWIG",
+	   "FIRWIG",
+	   "MERMAIDYN",
+	   "MERMADONNA",
+	   "MERMOTHER",
+	   "LADY LONGNEK",
+	   "DRAAAGIN",
+	   "SLURPENT",
+	   "ROBONOKO",
+	   "ROBODRAGGIE",
+	   "TAKOYAKID",
+	   "TAKOYAKING"
 	  ],
 	  [
 	   "DUSTOX",
