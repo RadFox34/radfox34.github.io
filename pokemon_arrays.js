@@ -1541,7 +1541,7 @@ var arrays = {
 	   "SCRITCHY",
 	   "DIMMY",
 	   "BLANDON",
-	   "NUL",
+	   "NULL",
 	   "SUSPICIONI",
 	   "TANTRONI",
 	   "CONTRARIONI",
