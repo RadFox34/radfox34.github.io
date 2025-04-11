@@ -67,23 +67,11 @@ var arrays = {
 	   "KOMAJIRO S",
 	  ],
 	  [
-	   "TREECKO",
-	   "GROVYLE",
-	   "SCEPTILE",
-	   "LOTAD",
-	   "LOMBRE",
-	   "LUDICOLO",
-	   "SEEDOT",
-	   "NUZLEAF",
-	   "SHIFTRY",
-	   "SHROOMISH",
-	   "BRELOOM",
-	   "ROSELIA",
-	   "CACNEA",
-	   "CACTURNE",
-	   "LILEEP",
-	   "CRADILY",
-	   "TROPIUS"
+	   "RUDY",
+	   "JIBANYAN B",
+	   "KOMASAN B",
+	   "CHIMPANYAN",
+	   "BLIZZIE"
 	  ],
 	  [
 	   "TURTWIG",
@@ -258,11 +246,9 @@ var arrays = {
 	   "TAKOYAKING"
 	  ],
 	  [
-	   "DUSTOX",
-	   "ROSELIA",
-	   "GULPIN",
-	   "SWALOT",
-	   "SEVIPER"
+	   "STARRY NOKO",
+	   "WHISPER",
+	   "WHISPOCRATES"
 	  ],
 	  [
 	   "BUDEW",
@@ -388,13 +374,9 @@ var arrays = {
 	   "SNOTTLE"
 	  ],
 	  [
-	   "TORCHIC",
-	   "COMBUSKEN",
-	   "BLAZIKEN",
-	   "NUMEL",
-	   "CAMERUPT",
-	   "TORKOAL",
-	   "CASTFORM_1"
+	   "FUU 2",
+	   "MAGINYAN",
+	   "TOADAL DEMON"
 	  ],
 	  [
 	   "CHIMCHAR",
@@ -488,19 +470,7 @@ var arrays = {
 	  [],
 	  [],
 	  [
-	   "BEAUTIFLY",
-	   "TAILLOW",
-	   "SWELLOW",
-	   "WINGULL",
-	   "PELIPPER",
-	   "MASQUERAIN",
-	   "NINJASK",
-	   "SWABLU",
-	   "ALTARIA",
-	   "TROPIUS",
-	   "SALAMENCE",
-	   "RAYQUAZA",
-	   "LUGIA_1"
+	   "LORD ENMA"
 	  ],
 	  [
 	   "STARLY",
@@ -713,35 +683,8 @@ var arrays = {
 	   "WHATUPTION"
 	  ],
 	  [
-	   "MUDKIP",
-	   "MARSHTOMP",
-	   "SWAMPERT",
-	   "LOTAD",
-	   "LOMBRE",
-	   "LUDICOLO",
-	   "WINGULL",
-	   "PELIPPER",
-	   "SURSKIT",
-	   "CARVANHA",
-	   "SHARPEDO",
-	   "WAILMER",
-	   "WAILORD",
-	   "BARBOACH",
-	   "WHISCASH",
-	   "CORPHISH",
-	   "CRAWDAUNT",
-	   "FEEBAS",
-	   "MILOTIC",
-	   "CASTFORM_2",
-	   "SPHEAL",
-	   "SEALEO",
-	   "WALREIN",
-	   "CLAMPERL",
-	   "HUNTAIL",
-	   "GOREBYSS",
-	   "RELICANTH",
-	   "LUVDISC",
-	   "KYOGRE"
+	   "KITARONYAN",
+	   "PUPPYNYAN"
 	  ],
 	  [
 	   "PIPLUP",
@@ -980,25 +923,10 @@ var arrays = {
 	   "ILLUMINOCT"
 	  ],
 	  [
-	   "ZIGZAGOON",
-	   "LINOONE",
-	   "TAILLOW",
-	   "SWELLOW",
-	   "SLAKOTH",
-	   "VIGOROTH",
-	   "SLAKING",
-	   "WHISMUR",
-	   "LOUDRED",
-	   "EXPLOUD",
-	   "AZURILL",
-	   "SKITTY",
-	   "DELCATTY",
-	   "SPINDA",
-	   "SWABLU",
-	   "ZANGOOSE",
-	   "CASTFORM",
-	   "KECLEON",
-	   "KECLEON_1"
+	   "SIR NYANSALOT",
+	   "MOMONYAN",
+	   "BISON BURLY",
+	   "ARACHNEVIL"
 	  ],
 	  [
 	   "STARLY",
@@ -1245,10 +1173,9 @@ var arrays = {
 	   "STARRYCANE"
 	  ],
 	  [
-	   "ELECTRIKE",
-	   "MANECTRIC",
-	   "PLUSLE",
-	   "MINUN"
+	   "ODYSSEYNYAN",
+	   "PHEASANYAN",
+	   "SEAWEED SNS"
 	  ],
 	  [
 	   "SHINX",
@@ -1579,13 +1506,8 @@ var arrays = {
 	   "DARKYUBI"
 	  ],
 	  [
-	   "CASTFORM_3",
-	   "SNORUNT",
-	   "GLALIE",
-	   "SPHEAL",
-	   "SEALEO",
-	   "WALREIN",
-	   "REGICE"
+	   "USAPYON",
+	   "USAPYON B"
 	  ],
 	  [
 	   "SNOVER",
@@ -1847,13 +1769,7 @@ var arrays = {
 	   "NO SANDKYU"
 	  ],
 	  [
-	   "COMBUSKEN",
-	   "BLAZIKEN",
-	   "BRELOOM",
-	   "MAKUHITA",
-	   "HARIYAMA",
-	   "MEDITITE",
-	   "MEDICHAM"
+	   "DRENCHETTA"
 	  ],
 	  [
 	   "MONFERNO",
@@ -2548,20 +2464,21 @@ var arrays = {
 	   "KABUKING"
 	  ],
 	  [
-	   "REGIROCK",
-	   "REGICE",
-	   "REGISTEEL",
-	   "LATIAS",
-	   "LATIOS",
-	   "KYOGRE",
-	   "GROUDON",
-	   "RAYQUAZA",
-	   "JIRACHI",
-	   "DEOXYS",
-	   "DEOXYS_1",
-	   "DEOXYS_2",
-	   "DEOXYS_3",
-	   "LUGIA_1"
+	   "TATTLETERROR",
+	   "ROBONYAN 28",
+	   "ROBONYAN 3000",
+	   "DUKE DOGGY",
+	   "ALICKTOCAT",
+	   "ZAZEL",
+	   "GOLDEN CLAWS",
+	   "SWIRLIOUS GOLD",
+	   "HINOZALL AWOKEN",
+	   "SHOGUN KING",
+	   "PINK EMPORER",
+	   "MASS MUTTERER",
+	   "WHISPED CREAM",
+	   "CAPTAIN THUNDER",
+	   "ZAZALMARE"
 	  ],
 	  [
 	   "AZELF",
